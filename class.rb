@@ -4,6 +4,5 @@ class FirstClass
    end
 end
 
-
 object = FirstClass.new
 object.hello
