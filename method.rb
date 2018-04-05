@@ -10,8 +10,6 @@ val1 = gets
 val2 = gets
 var = test val1 , val2
 puts var
-# v = defined? val2
-# puts v
 
 $sum1 = 0
 def add (value) # adding vaiable numbers giving variable number of arguments.
