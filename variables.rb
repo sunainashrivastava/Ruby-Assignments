@@ -32,4 +32,3 @@ class1obj.print_global
 class2obj.print_global
 student1.display_details()
 student2.display_details()
-
